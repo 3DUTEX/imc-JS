@@ -117,7 +117,7 @@ form button img {
 
 @media (max-width: 720px) {
   .container {
-    margin: 20px;
+    margin: 5%;
   }
 
   .grid-desc {
